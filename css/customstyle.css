@@ -1,0 +1,11 @@
+.profilepic {
+  height: 235px;
+  width: 235px;
+  border-radius: 80%;
+}
+
+.portfolioimg {
+  height: 275px;
+  width: 350px;
+  object-fit: cover;
+}
