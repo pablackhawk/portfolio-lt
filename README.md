@@ -4,7 +4,7 @@ Welcome to my personal profile! This profile is built using the Bootstrap templa
 
 ## Preview
 
-[!Profile Preview](/img/profilepreview.png)
+![Profile Preview](/img/profilepreview.png)
 
 Check out my profile [here](http://laurentius-tirtarahardja.me)!
 
